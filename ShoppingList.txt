@@ -5,3 +5,4 @@ Cake
 Ice Cream
 Fries
 Burger
+Milktea
