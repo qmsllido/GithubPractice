@@ -6,3 +6,5 @@ Ice Cream
 Fries
 Burger
 Milktea
+Cupcake
+Donuts
